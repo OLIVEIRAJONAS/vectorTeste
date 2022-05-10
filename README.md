@@ -10,7 +10,7 @@ Para utilizar a interface e requisições seguir os passos :
 3-Será retornado o token
 4-O token precisa ser passado como exempl
 Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTIxOTU1MzAsImlzcyI6ImVtaXNzb3IiLCJhdWQiOiJyZWNlcHRvciJ9.GyrN2dcUKJUila5YC8SfeLyb06u_RqlFy62SaPImcHQ
-5-Após passar o token os demias endpoints serão liberados 
+5-Após passar o token os demais endpoints serão liberados 
 
 Será possível buscar todos os emails ou por id. Caso a infomação exista no mongo será buscado por ele , caso não exista será buscado na API https://6064ac2bf09197001778660d.mockapi.io/api/test-api.
 
